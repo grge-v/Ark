@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ark</string>
+    <string name="title_activity_tracking">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="login_success">login success</string>
+    <string name="login">Вход</string>
+    <string name="Username">Имя пользователя</string>
+    <string name="Password">Пароль</string>
+    <string name="forgot_your_password">Забыли пароль ?</string>
+    <string name="go">Войти</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="next">Зарегистрироваться</string>
+    <string name="register">Реристрация</string>
+</resources>

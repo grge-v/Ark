@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "921247779096",
+    "firebase_url": "https://arkfirebaseproject-857c0.firebaseio.com",
+    "project_id": "arkfirebaseproject-857c0",
+    "storage_bucket": "arkfirebaseproject-857c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921247779096:android:8c5c3ded652b9938",
+        "android_client_info": {
+          "package_name": "com.example.george.ark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921247779096-jia59n6lor3praqq3eenmmpf963nsduo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.george.ark",
+            "certificate_hash": "017210ec30c8f18aab7d16092f52b40d98ad4f89"
+          }
+        },
+        {
+          "client_id": "921247779096-ol8617ljhmkahpad028bafu2n8b3nvs8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.george.ark",
+            "certificate_hash": "461feb85619a7d23e88c6d992acf904162815a93"
+          }
+        },
+        {
+          "client_id": "921247779096-7h7b4m1vlba50d3mce5g6320f61ms0m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYGTXwK8orkk8CENlUGMkbAIvJulKy8xo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921247779096-7h7b4m1vlba50d3mce5g6320f61ms0m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
